@@ -8,6 +8,8 @@ const app = express();
 app.use(express.urlencoded({ extended: true }));
 // parse incoming JSON data
 app.use(express.json());
+
+// set server routes
 app.use(express.static('public'));
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
