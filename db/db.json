@@ -1,1 +1,7 @@
-[{"title":"Test Title","text":"Test text"}]
+[
+  {
+    "title": "Example Note Title",
+    "text": "And some example note text",
+    "id": "vmxXdp44ufgY2TZClnS5V"
+  }
+]
