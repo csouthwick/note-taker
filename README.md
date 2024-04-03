@@ -1,8 +1,5 @@
 # Note Taker
 
-## Website
-[Note Taker](https://radiant-badlands-90943.herokuapp.com/) deployed on Heroku
-
 ## Screenshot
 
 ![screenshot of the Note Taker website](./assets/images/Screenshot_2020-10-17_Note_Taker.png)
